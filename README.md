@@ -21,7 +21,7 @@ Welcome to my engineering & IT portfolio. I am a fresh graduate in Electronic En
 ---
 
 ## 🔹 About Me
-📍 Nilai, Negeri Sembilan  
+📍 Negeri Sembilan, Malaysia  
 📧 nur.ridhuan26@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/muhd-ridhuan-norasdi)  
 
